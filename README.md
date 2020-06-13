@@ -7,3 +7,7 @@ The participants had to implement similar features over the course of a 4 hour w
 
 The project also demonstrates an interesting phenomena:
 LEDs can be used to detect brightness as well as to emit light
+
+![alt text](https://github.com/peterkisfaludi/arduino-light-sensitive-switch/blob/master/1485430226957.jpeg?raw=true)
+![alt text](https://github.com/peterkisfaludi/arduino-light-sensitive-switch/blob/master/1485430241313.jpeg?raw=true)
+![alt text](https://github.com/peterkisfaludi/arduino-light-sensitive-switch/blob/master/1485430262014.jpeg?raw=true)
